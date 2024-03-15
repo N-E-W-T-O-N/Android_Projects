@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Java Application</string>
+    <string name="enter_the_weight_in_kg">Enter the weight in Kg</string>
+    <string name="push_me">Push Me</string>
+</resources>
